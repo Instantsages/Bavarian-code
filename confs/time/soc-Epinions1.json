@@ -1,0 +1,9 @@
+{
+	"include": "./confs/globals.json",
+	"name": "soc-Epinions1",
+	"filename": "soc-Epinions1.dat",
+	"flags": ["-j", "-f", "-o", "-d", "-s"],
+	"timeouts": [25, 50, 75],
+	"reps" : 3,
+	"mctrials": [100]
+}

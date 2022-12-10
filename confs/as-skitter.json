@@ -1,0 +1,8 @@
+{
+	"include": "./confs/globals.json",
+	"name": "as-skitter.lcc.net",
+	"filename": "as-skitter.lcc.net",
+	"samples": [2000, 4000, 6000, 8000],
+	"reps": 3,
+	"mctrials": [5, 10, 25, 50, 100, 200]
+}

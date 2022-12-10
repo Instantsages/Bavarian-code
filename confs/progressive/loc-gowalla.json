@@ -1,0 +1,9 @@
+{
+	"include": "./confs/globals.json",
+	"name": "loc-gowalla",
+	"filename": "loc-gowalla.dat",
+	"reps": 3,
+	"mctrials": [100],
+	"multipliers": [1.25, 1.5, 2],
+	"epsilons": [0.02, 0.015, 0.01]
+}

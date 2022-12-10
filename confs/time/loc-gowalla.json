@@ -1,0 +1,9 @@
+{
+	"include": "./confs/globals.json",
+	"name": "loc-gowalla",
+	"filename": "loc-gowalla.dat",
+	"flags": ["-j", "-f", "-o", "-s"],
+	"timeouts": [25, 50, 75],
+	"reps" : 3,
+	"mctrials": [100]
+}

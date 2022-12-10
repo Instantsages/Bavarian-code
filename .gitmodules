@@ -1,0 +1,8 @@
+[submodule "src/networkit"]
+	path = src/networkit
+	url = https://github.com/networkit/networkit.git
+	branch = master
+[submodule "FindTBB"]
+	path = FindTBB
+	url = https://github.com/justusc/FindTBB.git
+	branch = master

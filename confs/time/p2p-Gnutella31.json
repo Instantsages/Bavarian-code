@@ -1,0 +1,9 @@
+{
+	"include": "./confs/globals.json",
+	"name": "p2p-Gnutella31",
+	"filename": "p2p-Gnutella31.dat",
+	"flags": ["-j", "-f", "-o", "-d", "-s"],
+	"timeouts": [25, 50, 75],
+	"reps" : 3,
+	"mctrials": [100]
+}

@@ -1,0 +1,11 @@
+{
+	"_comment_": "paths should be relative to the directory of the experiments scripts",
+	"bindir": "bin",
+	"datadir": "data",
+	"logdir" : "logs",
+	"resdir" : "res",
+	"exactdir": "exact",
+	"algos" : ["rk", "ab", "bp"],
+	"flags": ["-j", "-f", "-s", "-o"],
+	"deltas": [0.1]
+}

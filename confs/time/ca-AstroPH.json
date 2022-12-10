@@ -1,0 +1,9 @@
+{
+	"include": "./confs/globals.json",
+	"name": "ca-AstroPh",
+	"filename": "ca-AstroPh.dat",
+	"flags": ["-j", "-f", "-o", "-s"],
+	"timeouts": [25, 50, 75],
+	"reps" : 3,
+	"mctrials": [100]
+}

@@ -1,0 +1,10 @@
+{
+	"include": "./confs/globals.json",
+	"name": "com-dblp.lcc.net",
+	"filename": "com-dblp.lcc.net",
+	"flags": ["-j", "-f", "-o", "-s"],
+	 "_timeouts_comment_" : "Lower values than the other graphs because it takes very long.",
+	"timeouts": [2.5, 5, 7.5],
+	"reps" : 3,
+	"mctrials": [100]
+}
